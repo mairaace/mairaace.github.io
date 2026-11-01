@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-11-01T10:25:59-05:00</updated><id>/feed.xml</id><title type="html">Nombre de tu sitio</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Reconocimientos</title><link href="/2026/acknowledgements" rel="alternate" type="text/html" title="Reconocimientos" /><published>2026-01-10T12:00:00-03:00</published><updated>2026-01-10T12:00:00-03:00</updated><id>/2026/acknowledgements</id><content type="html" xml:base="/2026/acknowledgements"><![CDATA[<h1 id="reconocimientos">Reconocimientos</h1>
+
+<ul>
+  <li data-marker="*">Esta página web está basada en el tema de <a href="https://cs50.readthedocs.io/themes/jekyll/">Jekyll de CS50</a>.</li>
+  <li data-marker="*">El contenido de este sitio fue elaborado por <a href="https://www.ejemplo.com">Tu nombre</a>.</li>
+</ul>]]></content><author><name></name></author><category term="main" /><summary type="html"><![CDATA[Reconocimientos]]></summary></entry><entry><title type="html">Recursos</title><link href="/2026/resources" rel="alternate" type="text/html" title="Recursos" /><published>2026-01-10T12:00:00-03:00</published><updated>2026-01-10T12:00:00-03:00</updated><id>/2026/resources</id><content type="html" xml:base="/2026/resources"><![CDATA[<h1 id="recursos">Recursos</h1>
+
+<p>En esta sección puedes reunir recursos para profundizar o bibliografía relevante.</p>
+
+<hr />
+
+<h2 id="lecturas">Lecturas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Lectura</th>
+      <th>Nivel</th>
+      <th>Lenguaje</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.ejemplo.com">Título del libro o artículo (Autor, Año)</a></td>
+      <td>Intermedio</td>
+      <td>Inglés</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="main" /><summary type="html"><![CDATA[Recursos]]></summary></entry><entry><title type="html">contenido</title><link href="/2026/s3/contenido" rel="alternate" type="text/html" title="contenido" /><published>2026-01-03T12:00:00-03:00</published><updated>2026-01-03T12:00:00-03:00</updated><id>/2026/s3/contenido</id><content type="html" xml:base="/2026/s3/contenido"><![CDATA[<h1 id="título-del-contenido-de-la-sesión-3">Título del contenido de la Sesión 3</h1>
+
+<h2 id="1-primer-tema">1. Primer tema</h2>
+
+<p>Escribe aquí la explicación del primer tema. Puedes escribir párrafos normales,
+y dejar una línea en blanco entre ellos para separarlos.</p>
+
+<p><img src="/assets/images/s3/imagen-1.gif" alt="Imagen random de Pinterest" /></p>
+
+<p><em>Nota.</em> Imagen random de Pinterest. Cámbiala guardando tu imagen en <code class="language-plaintext highlighter-rouge">assets/images/s3/</code> y cambiando la ruta de arriba.</p>
+
+<h3 id="una-lista-numerada">Una lista numerada</h3>
+
+<ol>
+  <li><strong>Paso uno</strong>: descripción del paso.</li>
+  <li><strong>Paso dos</strong>: descripción del paso.</li>
+  <li><strong>Paso tres</strong>: descripción del paso.</li>
+</ol>
+
+<h2 id="2-segundo-tema">2. Segundo tema</h2>
+
+<p>Así se muestra código en la página:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span><span class="sh">"</span><span class="s">mis_datos.csv</span><span class="sh">"</span><span class="p">)</span>
+<span class="n">df</span><span class="p">.</span><span class="nf">head</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/assets/images/s3/imagen-2.jpeg" alt="Imagen random de Pinterest" /></p>
+
+<p><em>Nota.</em> Imagen random de Pinterest. Si la imagen viene de otra fuente, cítala con un link: De <a href="https://www.ejemplo.com"><em>Título de la fuente</em></a>, por Autor, Año.</p>
+
+<h3 id="una-tabla">Una tabla</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">#</th>
+      <th>COLUMNA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td>Primer elemento</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td>Segundo elemento</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td>Tercer elemento</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><strong>Link a los códigos</strong>: <a href="https://www.ejemplo.com">Nombre del archivo</a></p>
+</blockquote>]]></content><author><name></name></author><category term="s3" /><summary type="html"><![CDATA[Título del contenido de la Sesión 3]]></summary></entry><entry><title type="html">Sesión 3</title><link href="/2026/s3" rel="alternate" type="text/html" title="Sesión 3" /><published>2026-01-03T12:00:00-03:00</published><updated>2026-01-03T12:00:00-03:00</updated><id>/2026/s3</id><content type="html" xml:base="/2026/s3"><![CDATA[<h1 id="sesión-3">Sesión 3</h1>
+
+<p>Escribe aquí una breve descripción de lo que se verá en la sesión 3.</p>
+
+<h2 id="links">Links</h2>
+<ul>
+  <li data-marker="*"><a href="/2026/s3/contenido">Contenidos de la sesión</a></li>
+</ul>]]></content><author><name></name></author><category term="s3" /><summary type="html"><![CDATA[Sesión 3]]></summary></entry><entry><title type="html">contenido</title><link href="/2026/s2/contenido" rel="alternate" type="text/html" title="contenido" /><published>2026-01-02T12:00:00-03:00</published><updated>2026-01-02T12:00:00-03:00</updated><id>/2026/s2/contenido</id><content type="html" xml:base="/2026/s2/contenido"><![CDATA[<h1 id="título-del-contenido-de-la-sesión-2">Título del contenido de la Sesión 2</h1>
+
+<h2 id="1-primer-tema">1. Primer tema</h2>
+
+<p>Escribe aquí la explicación del primer tema. Puedes escribir párrafos normales,
+y dejar una línea en blanco entre ellos para separarlos.</p>
+
+<p><img src="/assets/images/s2/imagen-1.gif" alt="Imagen random de Pinterest" /></p>
+
+<p><em>Nota.</em> Imagen random de Pinterest. Cámbiala guardando tu imagen en <code class="language-plaintext highlighter-rouge">assets/images/s2/</code> y cambiando la ruta de arriba.</p>
+
+<h3 id="una-lista-numerada">Una lista numerada</h3>
+
+<ol>
+  <li><strong>Paso uno</strong>: descripción del paso.</li>
+  <li><strong>Paso dos</strong>: descripción del paso.</li>
+  <li><strong>Paso tres</strong>: descripción del paso.</li>
+</ol>
+
+<h2 id="2-segundo-tema">2. Segundo tema</h2>
+
+<p>Así se muestra código en la página:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span><span class="sh">"</span><span class="s">mis_datos.csv</span><span class="sh">"</span><span class="p">)</span>
+<span class="n">df</span><span class="p">.</span><span class="nf">head</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/assets/images/s2/imagen-2.jpeg" alt="Imagen random de Pinterest" /></p>
+
+<p><em>Nota.</em> Imagen random de Pinterest. Si la imagen viene de otra fuente, cítala con un link: De <a href="https://www.ejemplo.com"><em>Título de la fuente</em></a>, por Autor, Año.</p>
+
+<h3 id="una-tabla">Una tabla</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">#</th>
+      <th>COLUMNA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td>Primer elemento</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td>Segundo elemento</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td>Tercer elemento</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><strong>Link a los códigos</strong>: <a href="https://www.ejemplo.com">Nombre del archivo</a></p>
+</blockquote>]]></content><author><name></name></author><category term="s2" /><summary type="html"><![CDATA[Título del contenido de la Sesión 2]]></summary></entry><entry><title type="html">Sesión 2</title><link href="/2026/s2" rel="alternate" type="text/html" title="Sesión 2" /><published>2026-01-02T12:00:00-03:00</published><updated>2026-01-02T12:00:00-03:00</updated><id>/2026/s2</id><content type="html" xml:base="/2026/s2"><![CDATA[<h1 id="sesión-2">Sesión 2</h1>
+
+<p>Escribe aquí una breve descripción de lo que se verá en la sesión 2.</p>
+
+<h2 id="links">Links</h2>
+<ul>
+  <li data-marker="*"><a href="/2026/s2/contenido">Contenidos de la sesión</a></li>
+</ul>]]></content><author><name></name></author><category term="s2" /><summary type="html"><![CDATA[Sesión 2]]></summary></entry><entry><title type="html">contenido</title><link href="/2026/s1/contenido" rel="alternate" type="text/html" title="contenido" /><published>2026-01-01T12:00:00-03:00</published><updated>2026-01-01T12:00:00-03:00</updated><id>/2026/s1/contenido</id><content type="html" xml:base="/2026/s1/contenido"><![CDATA[<h1 id="título-del-contenido-de-la-sesión-1">Título del contenido de la Sesión 1</h1>
+
+<h2 id="1-primer-tema">1. Primer tema</h2>
+
+<p>Escribe aquí la explicación del primer tema. Puedes escribir párrafos normales,
+y dejar una línea en blanco entre ellos para separarlos.</p>
+
+<p><img src="/assets/images/s1/imagen-1.jpeg" alt="Imagen random de Pinterest" /></p>
+
+<p><em>Nota.</em> Imagen random de Pinterest. Cámbiala guardando tu imagen en <code class="language-plaintext highlighter-rouge">assets/images/s1/</code> y cambiando la ruta de arriba.</p>
+
+<h3 id="una-lista-numerada">Una lista numerada</h3>
+
+<ol>
+  <li><strong>Paso uno</strong>: descripción del paso.</li>
+  <li><strong>Paso dos</strong>: descripción del paso.</li>
+  <li><strong>Paso tres</strong>: descripción del paso.</li>
+</ol>
+
+<h2 id="2-segundo-tema">2. Segundo tema</h2>
+
+<p>Así se muestra código en la página:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span><span class="sh">"</span><span class="s">mis_datos.csv</span><span class="sh">"</span><span class="p">)</span>
+<span class="n">df</span><span class="p">.</span><span class="nf">head</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/assets/images/s1/imagen-2.jpeg" alt="Imagen random de Pinterest" /></p>
+
+<p><em>Nota.</em> Imagen random de Pinterest. Si la imagen viene de otra fuente, cítala con un link: De <a href="https://www.ejemplo.com"><em>Título de la fuente</em></a>, por Autor, Año.</p>
+
+<h3 id="una-tabla">Una tabla</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">#</th>
+      <th>COLUMNA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td>Primer elemento</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td>Segundo elemento</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td>Tercer elemento</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><strong>Link a los códigos</strong>: <a href="https://www.ejemplo.com">Nombre del archivo</a></p>
+</blockquote>]]></content><author><name></name></author><category term="s1" /><summary type="html"><![CDATA[Título del contenido de la Sesión 1]]></summary></entry><entry><title type="html">Sesión 1</title><link href="/2026/s1" rel="alternate" type="text/html" title="Sesión 1" /><published>2026-01-01T12:00:00-03:00</published><updated>2026-01-01T12:00:00-03:00</updated><id>/2026/s1</id><content type="html" xml:base="/2026/s1"><![CDATA[<h1 id="sesión-1">Sesión 1</h1>
+
+<p>Escribe aquí una breve descripción de lo que se verá en la sesión 1, pueden poner una imagen, una reflexión, lo que quieran.</p>
+
+<h2 id="links">Links</h2>
+<ul>
+  <li data-marker="*"><a href="/2026/s1/contenido">Contenidos de la sesión</a></li>
+</ul>]]></content><author><name></name></author><category term="s1" /><summary type="html"><![CDATA[Sesión 1]]></summary></entry></feed>
